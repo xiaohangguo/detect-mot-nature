@@ -1,7 +1,6 @@
-## 基于YOLOv8与Qt的多目标跟踪智能交通路况监控系统
+## 基于YOLOv8的灾害识别系统
 # 1.演示视频
-https://www.bilibili.com/video/BV1yX4y1m7Fe/?spm_id_from=333.999.0.0<br>
-https://youtu.be/_77LrsXaYzM
+
 # 2.安装（INSTALL)
 ## 第一步（FIRST STEP) 安装ANACONDA<br>
 1）访问Anaconda官网：https://www.anaconda.com/products/individual<br>
